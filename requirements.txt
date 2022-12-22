@@ -27,3 +27,7 @@ codecov==2.1.12
 
 # Utilities
 httpie==3.2.1
+
+# Security
+flask-talisman==1.0.0
+flask-cors==3.0.10
